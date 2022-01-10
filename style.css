@@ -1,0 +1,668 @@
+body {
+    margin: 0%;
+    padding: 0%;
+}
+
+/* nav bar */
+
+.myNavbar {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    background-color: rgb(255, 255, 255);
+}
+
+.future-theory-logo {
+    width: 20vw;
+}
+
+.bi-search {
+    font-size: 1rem;
+    margin-right: 5rem;
+    margin-left: 2rem;
+    color: black;
+}
+
+.bi-search:hover {
+    color: blue;
+}
+
+.lk {
+    font-size: 1.2rem;
+    color: black;
+    background-color: white;
+    margin-right: 1rem;
+}
+
+.lk:hover {
+    color: blue;
+    background-color: white;
+}
+
+.bi-list {
+    color: black;
+    font-size: 1.5em;
+}
+
+/* media queries for phone */
+
+@media(max-width:576px) {
+
+    .myNavbar {
+        padding-top: 0.5rem;
+        padding-bottom: 0.5rem;
+    }
+
+    .future-theory-logo {
+        width: 40vw;
+    }
+
+    .bi-search {
+        font-size: 1rem;
+        margin-right: 5rem;
+        color: rgb(0, 0, 0);
+    }
+}
+
+
+/*for ipad or tablets */
+
+@media(max-width:768px) {
+
+    .background-coloring {
+        width: 100%;
+        margin-bottom: 3rem;
+    }
+
+    .image-box {
+        width: 100%;
+    }
+
+    .bb-1 {
+        margin-bottom: 2rem;
+    }
+
+    .bb-2 {
+        margin-bottom: 2rem;
+    }
+
+    .future-theory-logo {
+        width: 30vw;
+    }
+}
+
+
+/* nav bar completed */
+
+
+
+
+/* background starts */
+
+.background-heading {
+    font-size: 3rem;
+    color: rgb(0, 0, 24);
+    font-weight: 700;
+    margin-top: 5rem;
+}
+
+.background-coloring {
+    background-color: rgb(240, 240, 255);
+}
+
+.bb-1 {
+    background-color: rgb(45, 45, 254);
+    color: white;
+    padding: 1rem;
+}
+
+.bb-1:hover {
+    background-color: rgb(88, 88, 255);
+    color: white;
+    transition: 0.5s;
+}
+
+.bb-2 {
+    background-color: rgb(240, 240, 255);
+    color: rgb(45, 45, 254);
+    padding: 1rem;
+    margin-left: 0.2rem;
+    border: 0.1rem solid rgb(45, 45, 254);
+}
+
+.bb-2:hover {
+    background-color: #000018;
+    color: white;
+    border: 0.1rem solid #000018;
+    transition: 0.3s;
+}
+
+/* background end */
+
+
+
+
+/* websites , marketing , design starts */
+
+.wmd {
+    color: black;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.design {
+    color: blue;
+    font-size: 1.2rem;
+}
+
+.design:hover {
+    color: rgb(88, 88, 255);
+}
+
+.ppp {
+    font-size: 1.2rem;
+    color: rgb(41, 39, 39);
+}
+
+.wmd-background {
+    background-color: rgb(240, 240, 255);
+    margin-top: 3rem;
+    padding-left: 3rem;
+}
+
+.lm-bttn {
+    background-color: rgb(45, 45, 254);
+    color: white;
+    padding: 0.8rem;
+}
+
+.lm-bttn:hover {
+    color: white;
+    background-color: rgb(88, 88, 255);
+}
+
+@media(max-width:768px) {
+    .wmd-background {
+        width: 100%;
+    }
+
+    .organisation {
+        font-size: 0.6rem;
+        font-weight: 400;
+        color: green;
+    }
+}
+
+/* websites , marketing , design ends */
+
+
+
+
+/* trusted by organisation */
+
+.organisation {
+    color: black;
+    font: weight 500;
+    font-size: 1.8rem;
+}
+
+.organisation-para {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(98, 94, 94);
+}
+
+
+
+
+/* pictures section starts*/
+
+#australia {
+    height: 8vh;
+    width: 10vw;
+}
+
+#bloc {
+    height: 8vh;
+}
+
+#college {
+    width: 10vw;
+    height: 8vh;
+}
+
+#square {
+    width: 10vw;
+    height: 8vh;
+}
+
+#krofne {
+    width: 5vw;
+    height: 10vh;
+}
+
+#anatolia {
+    height: 5vh;
+    margin-top: 1rem;
+}
+
+
+/* i pad pro */
+
+@media(max-width:1200px) {
+    #australia {
+        height: 5vh;
+        width: 14vw;
+    }
+
+    #bloc {
+        height: 5vh;
+    }
+
+    #college {
+        width: 14vw;
+        height: 5vh;
+    }
+
+    #square {
+        width: 11vw;
+        height: 4.5vh;
+    }
+
+    #krofne {
+        width: 6vw;
+        height: 5vh;
+    }
+
+    #anatolia {
+        height: 3vh;
+        margin-top: 0.5rem;
+        width: 14vw;
+    }
+
+}
+
+/* for phone */
+
+@media(max-width:576px) {
+    #australia {
+        height: 10vh;
+        width: 50%;
+    }
+
+    #bloc {
+        height: 10vh;
+        width: 20%;
+        margin-top: 3rem;
+    }
+
+    #college {
+        width: 50%;
+        height: 10vh;
+        margin-top: 3rem;
+    }
+
+    #square {
+        width: 50%;
+        height: 10vh;
+        margin-top: 3rem;
+    }
+
+    #krofne {
+        width: 25%;
+        height: 10vh;
+        margin-top: 3rem;
+    }
+
+    #anatolia {
+        width: 40%;
+        height: 5vh;
+        margin-top: 3rem;
+    }
+}
+
+
+
+
+
+
+
+
+/* pictures section starts*/
+
+.fts {
+    background-color: rgb(240, 240, 255);
+    margin-top: 7rem;
+}
+
+.latest {
+    color: rgb(98, 94, 94);
+}
+
+.podcast-heading {
+    color: rgb(45, 45, 254);
+    font-weight: 500;
+}
+
+.new-tiktok {
+    color: rgb(0, 0, 24);
+    font-size: 1.7rem;
+    font-weight: 700;
+}
+
+.new-tiktok:hover {
+    color: rgb(45, 45, 254);
+}
+
+.canberra-para {
+    color: rgb(98, 94, 94);
+    font-size: 1.2rem;
+}
+
+.dates {
+    color: rgb(169, 169, 169);
+    font-family: sans-serif;
+}
+
+.iwt {
+    color: rgb(0, 0, 24);
+}
+
+.img-txtt-column {
+    margin-top: 13rem;
+}
+
+.c-one {
+    background-color: rgb(240, 240, 255);
+    border: 0.1rem solid rgb(240, 240, 255);
+}
+
+.c-two {
+    background-color: rgb(240, 240, 255);
+    border: 0.1rem solid rgb(240, 240, 255);
+}
+
+.c-three {
+    background-color: rgb(240, 240, 255);
+    border: 0.1rem solid rgb(240, 240, 255);
+}
+
+.c-four {
+    background-color: rgb(240, 240, 255);
+    border: 0.1rem solid rgb(240, 240, 255);
+}
+
+/* for i pad ot tablets */
+
+@media(max-width:768px) {
+    .left-column {
+        width: 95%;
+    }
+
+    .img-txtt-column {
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        margin-top: 5rem;
+    }
+
+    .c-one {
+        width: 95%;
+    }
+
+    .c-two {
+        width: 95%;
+    }
+
+    .c-three {
+        width: 95%;
+    }
+
+    .c-four {
+        width: 95%;
+    }
+}
+
+
+
+/* for phones */
+
+@media(max-width:576px) {
+    .left-column {
+        width: 95%;
+    }
+
+    .img-txtt-column {
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        margin-top: 5rem;
+    }
+
+    .c-one {
+        width: 99%;
+    }
+
+    .c-two {
+        width: 99%;
+    }
+
+    .c-three {
+        width: 99%;
+    }
+
+    .c-four {
+        width: 99%;
+    }
+}
+
+/* pictures section ends*/
+
+
+
+
+
+
+/* digital section starts */
+
+.why-us {
+    color: rgb(98, 94, 94);
+}
+
+.canberra {
+    color: black;
+}
+
+.canberra-para {
+    color: rgb(98, 94, 94);
+    font-size: 1.2rem;
+}
+
+.wdd {
+    color: blue;
+}
+
+.wdd:hover {
+    color: rgb(87, 87, 255);
+}
+
+.image-with-text {
+    margin-top: 5rem;
+}
+
+/* for ipad or tablets */
+
+@media(max-width:768px) {
+    .side-image {
+        margin-top: 8rem;
+    }
+}
+
+@media(max-width:1200px) {
+    .side-image {
+        margin-top: 8rem;
+    }
+}
+
+
+/* digital section ends */
+
+
+
+
+
+
+
+/* contact section starts */
+
+.part-one {
+    background-color: rgb(0, 0, 24);
+    border-bottom: 0.1rem solid rgb(0, 0, 24);
+}
+
+.f {
+    height: 10vh;
+}
+
+.for-f {
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+}
+
+.no {
+    color: white;
+    font-size: 2rem;
+}
+
+.no:hover {
+    color: rgb(163, 163, 163);
+    font-size: 2rem;
+}
+
+.street {
+    color: rgb(163, 163, 163);
+    font-size: 2rem;
+}
+
+.news-letter {
+    color: white;
+    font-size: 1.7rem;
+}
+
+.experts-line {
+    color: rgb(163, 163, 163);
+    font-size: 1rem;
+}
+
+.sub-buttonn {
+    background-color: rgb(51, 51, 70);
+    color: white;
+    padding: 0.8rem;
+    font-weight: 400;
+}
+
+.sub-buttonn:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 24);
+}
+
+.firstt {
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.bi-linkedin {
+    color: white;
+    font-size: 1.5rem;
+}
+
+.bi-linkedin:hover {
+    color: rgb(163, 163, 163);
+}
+
+.bi-instagram {
+    color: white;
+    font-size: 1.5rem;
+}
+
+.bi-instagram:hover {
+    color: rgb(163, 163, 163);
+}
+
+.bi-facebook {
+    color: white;
+    font-size: 1.5rem;
+}
+
+.bi-facebook:hover {
+    color: rgb(163, 163, 163);
+}
+
+.services {
+    color: white;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.w {
+    color: rgb(163, 163, 163);
+    font-size: 1.2rem;
+}
+
+.m {
+    color: rgb(163, 163, 163);
+    font-size: 1.2rem;
+}
+
+.d {
+    color: rgb(163, 163, 163);
+    font-size: 1.2rem;
+}
+
+.fa-podcast {
+    color: white;
+    font-size: 1.5rem;
+}
+
+.fa-podcast:hover {
+    color: rgb(163, 163, 163);
+}
+
+.bi-spotify {
+    color: white;
+    font-size: 1.5rem;
+}
+
+.bi-spotify:hover {
+    color: rgb(163, 163, 163);
+}
+
+.fa-google-play {
+    color: white;
+    font-size: 1.5rem;
+}
+
+.fa-google-play:hover {
+    color: rgb(163, 163, 163);
+}
+
+.ack {
+    color: rgb(163, 163, 163);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.aoc {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.pvt {
+    color: white;
+    font-size: 1rem;
+}
+
+.pp {
+    color: white;
+    font-size: 1rem;
+}
+
+/* contact section ends */

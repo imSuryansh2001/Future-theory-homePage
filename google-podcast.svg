@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="31" viewBox="0 0 32 31">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 100 100">
+      <image width="100" height="100" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAABmJLR0QA/wD/AP+gvaeTAAADFUlEQVR4nO2cQW4TQRBFq1kDl4FbJFbOAleAoKw4CxKwTGAPp8HZfxYZy3IkZ9ru6q5f7v8k7zqd7/rj6Zr+M2MmhBBCCCGEEKIKADcAfgN4XD6/AGyidU0JgDsc5zZa31Qsv4w1rqN1TsNymlrjIVrnuZRoAacCYGtmr1eGbUspb0fo8SajIagZV0pJ993MzF5FCxCHyBAyZAgZMoQMGUJGRkMeK8b8666iExkN+es0RngAYFNxpX4VrXMqANy+YManaH1TAuAawAOA7fK51y/jDECWY7DpGQrIcgw2PUMBWY7Bpmc4IMsx2PTsGLZFDbIcg03PjpGGUOUYbHp2ZLxSN7PJuyMPKs7XqD1q4dAdeepJiVcB4NQdsRqS8ZT1oWLMx+4qOpFuUYdTd+Slx5uMv5A1M8zM3lSMocxVMhriBWWuMrMhX53G5MSxy3LrjjBzrsJoyDIfVa6Sscui7I68mHkNoeRkQ6A9pANC64GGPSTWNaSFlnp4/POmPSSvQnrN00prPTwENCVsXoX0mqeV1noc45Q15F3FmPenCogG568BsfVoPTK9jmyveZa5wtfE51T36rWTH+v/W/++wzw3ZvZtZZpNKeVHTx3PGXkdUrO7uu2uYg9lrjLSkJqd0z/dVeyhXBNHGsK2u+qVq7gyzJBSyncz+/LCkM+llJ+j9KQHTzuha6wmbGjcXfXqblrn8arH2eCpP1/jvpuAvY6mQnrN06sep5yy2NaAaOLrAYKErfXI9pyHoR7hCRuTIcs8rvVIl6rVFMksb/KoxJCM4YZAiSMPILpr3WuetIDsrnVWQ0aesih3V9lI94xh7VGbtcua9kY5VkPU9pKR0RDK5zq8yGgI5XMdXmQ0JH6X9RLw7PvhsMvKeh0yDDgnbGhPHmMTv2hAkjiy6hkOyN6VyKYnBDAkbMR6QgDZM31seoQQFwmUPPKAmd8mygain+0Th4D0baJeZLwvi/Jtol5kNIQy6fMi4/b7RSNDyJAhZMgQMmQIGRkN0V0nZFz0XSfpgJI+PqCkjw8o6RNCCCGEENX8B4BUFrgz/S71AAAAAElFTkSuQmCC"/>
+    </pattern>
+  </defs>
+  <rect id="Future_Tribe_Google_Podcast" data-name="Future Tribe Google Podcast" width="32" height="31" fill="url(#pattern)"/>
+</svg>
